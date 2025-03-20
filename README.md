@@ -183,5 +183,4 @@ For more details, visit the [official TypeScript documentation](https://www.type
 
 ---
 
-Happy Coding! 🚀
 
